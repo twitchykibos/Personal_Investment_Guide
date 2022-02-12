@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the Personal Investment Guide
+
+# About
+
+This is a project that started in March 2019, originally as a means to track my own personal understanding of stocks. Later I realized that this information could be indespensible to many and brought the original framework of the guide to a friend who is helping me in making this into something larger reaching, more coherent, and simplier for a general audience.
+
+The idea behind this guide is not to tell you what to buy, but to get you on some track to better understand, control, and plan your financal projects.
+
+### Nothing in this guide is financial advise. The intention is not to build a multi-million dollar portfolio with only $1 invested. The purpose is to understand the various things that make up the stock market, break down various analytical tools and how to use them, and cover some aspect of various financial statements. If you wanted something that makes you money, stop here, this is not that guide. The creator(s) of this guide are not financially liable and any options followed here are solely at the discretion of the reader.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You can use the [editor on GitHub](https://github.com/twitchykibos/Personal_Investment_Guide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
